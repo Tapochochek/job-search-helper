@@ -1,0 +1,25 @@
+{
+ "1С программист": {
+  "filters": {
+   "text": "1с программист",
+   "area": [],
+   "extra": [],
+   "host": "hh.ru",
+   "salary": "",
+   "only_with_salary": false,
+   "period": "",
+   "order_by": "publication_time",
+   "search_field": [],
+   "experience": [
+    "noExperience",
+    "between1And3"
+   ],
+   "work_format": [
+    "REMOTE"
+   ],
+   "schedule": []
+  },
+  "pages": 3,
+  "limit": 100
+ }
+}
